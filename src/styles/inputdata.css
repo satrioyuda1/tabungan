@@ -1,0 +1,56 @@
+.formWrapper {
+  margin-left: 200px;
+}
+
+label {
+  display: flex !important;
+}
+
+.submitButton {
+  display: flex !important;
+  margin-left: 15px;
+}
+
+.totalMoney {
+  border: 1px solid rgb(206, 199, 199);
+  width: 400px;
+  height: 250px;
+  float: right;
+  margin-top: -280px;
+  margin-right: 200px;
+}
+
+.description {
+  margin-left: 20px;
+  text-align: left;
+  margin-bottom: 15px;
+  margin-top: 10px;
+  color: black;
+}
+
+.rupiah {
+  margin-top: 7px;
+}
+
+.tableStyles {
+  width: 880px !important;
+  margin: 40px auto 0 auto;
+}
+
+.buttonStyles {
+  margin: 0 5px 0 5px;
+}
+
+.form-table {
+  width: 150px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+td {
+  width: 200px !important;
+}
+
+.rowHover:hover {
+  background: #f2f2f2;
+}
